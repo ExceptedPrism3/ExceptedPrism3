@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Prism, a Minecraft Plugin Developer</div>  
+### <div align="center">Hi there, I'm a Minecraft Plugin Developer</div>  
   
 
 - 🔭 I’m the owner of a Moroccan Minecraft Server [Carpour](https://carpour.com)  
