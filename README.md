@@ -9,7 +9,10 @@
 - 🔭 I’m the owner of a Moroccan Minecraft Server [Carpour](https://carpour.com)  
   
 
-- 🌱 I’m currently learning Java and Python 
+- 🌱 I’m currently learning Java and Python
+  
+
+- 💻 Here's a collection of my Minecraft Plugins [Spigotmc](https://www.spigotmc.org/members/prism3.980738/)
   
 
 <br/>  
@@ -19,14 +22,17 @@
 <a href="https://github.com/ExceptedPrism3">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-</div>  
+<a href="https://discord.com/invite/MfR5mcpVfX">
+<img src=https://img.shields.io/discord/871072620873932830?style=for-the-badge alt=discord style="margin-bottom: 5px;" />
+</a>
+</div>
   
 
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ExceptedPrism3&show_icons=true&count_private=true&hide_border=true" align="center" target="_blank"/></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ExceptedPrism3&theme=radical" align="center" target="_blank"/></div>  
 
 <br/>
 
