@@ -40,7 +40,7 @@
 </p>
 <br>
 
-## <img src="https://c.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" width="20"> &nbsp;Connect with Me
+## <img src="https://c.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" width="25"> &nbsp;Connect with Me
 
 <div align="center">
 <a href="https://github.com/ExceptedPrism3" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" style="margin-bottom: -6px;"/></a>
