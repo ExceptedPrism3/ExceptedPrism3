@@ -48,7 +48,7 @@
 <a href="mailto:exceptedprism3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
-## Profile Views Counter
+## <img src="https://cdn.discordapp.com/attachments/947328978857898016/947337364521484378/pepega.gif" width="25"> Profile Views Counter
 
 <div align="center">
 
