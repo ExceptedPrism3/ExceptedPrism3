@@ -9,6 +9,7 @@
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB"></h3>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+</div>
 
 <img src="https://cdn.discordapp.com/attachments/947328978857898016/947329452663275560/pepe-hype.gif" width="30px">&nbsp;***About me ....***
 
@@ -19,9 +20,11 @@
 
 <br><br><br>
 
+<div align="center">
+
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"> Github stats
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"> Github Stats
 
 <p align="center">
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=ExceptedPrism3&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
@@ -39,12 +42,18 @@
 
 ## <img src="https://c.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" width="20"> &nbsp;Connect with Me
 
-<p><a href="https://github.com/hrnbot" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" style="margin-bottom: -5px;"/></a>
-<a href="https://linkedin.com/in/ayoub-b-818339164/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:exceptedprism3@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<div align="center">
+<a href="https://github.com/ExceptedPrism3" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" style="margin-bottom: -5px;"/></a>
+<a href="https://linkedin.com/in/ayoub-b-818339164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:exceptedprism3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</div>
 
-## Profile views counter
+## Profile Views Counter
+
+<div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/{ExceptedPrism3}/count.svg)
+
+</div>
 
 </div>
