@@ -4,7 +4,7 @@
 
 <hr>
 
-<img src="https://www.dropbox.com/s/acg9irl12ew9uoy/Prism3%20%282%29.gif?dl=1" align="center" style="width: 100%" />
+<img src="https://cdn.discordapp.com/attachments/947328978857898016/947329197171425351/Prism3_2.gif" align="center" style="width: 100%" />
 
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB"></h3>
 
