@@ -27,9 +27,9 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"> Github Stats
 
 <p align="center">
-    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=ExceptedPrism3&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    <img alt="status github, commits, etc..." width="400px" src="https://github-readme-stats.vercel.app/api?username=ExceptedPrism3&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
     />
-    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExceptedPrism3&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,markdown"/>
+    <img alt="most used languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExceptedPrism3&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,markdown"/>
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=exceptedprism3&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"></div>
