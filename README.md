@@ -44,8 +44,8 @@
 ## <img src="https://c.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" width="25"> &nbsp;Connect with Me
 
 <div align="center">
-<a href="https://github.com/ExceptedPrism3" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" style="margin-bottom: -6px;"/></a>
 <a href="https://linkedin.com/in/ayoub-b-818339164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/ExceptedPrism3" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" style="margin-bottom: -6px;"/></a>
 <a href="mailto:exceptedprism3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
