@@ -4,7 +4,7 @@
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
-<img src="https://cdn.discordapp.com/attachments/947328978857898016/947329971746115624/Prism3-Banner.gif" align="center" style="width: 100%" />
+<img src="https://cdn.discordapp.com/attachments/947328978857898016/947329971746115624/Prism3-Banner.gif" align="center" style="width: 100%"  alt=""/>
 
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB"></h3>
 
@@ -29,16 +29,15 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"> Github Stats
 
 <p align="center">
-    <img alt="status github, commits, etc..." width="400px" src="https://github-readme-stats.vercel.app/api?username=ExceptedPrism3&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
-    />
-    <img alt="most used languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExceptedPrism3&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,markdown"/>
+    <img alt="status github, commits, etc..." width="400px" src="https://github-readme-stats.vercel.app/api?username=ExceptedPrism3&count_private=true&show_icons=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
+    <img alt="most used languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExceptedPrism3&count_private=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=exceptedprism3&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"></div>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30"/>Git Profile Trophies<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30"/></p><br>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" alt=""/>Git Profile Trophies<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" alt=""/></p><br>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ExceptedPrism3&theme=juicyfresh&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ExceptedPrism3&theme=juicyfresh&no-bg=true" alt=""/>
 </p>
 <br>
 
