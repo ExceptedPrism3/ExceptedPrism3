@@ -15,7 +15,7 @@
 
 ✔ I’m the Founder of a Moroccan Minecraft Server **[Carpour](https://carpour.com)** <img src="https://cdn.discordapp.com/attachments/947328978857898016/947329452092821564/minecraft-dirt.gif" width="25"><br>
 ✔ I’m currently learning Java <img src="https://img.icons8.com/dusk/15/000000/java-coffee-cup-logo.png"/> and Python <img src="https://img.icons8.com/stickers/15/000000/python.png"/><br>
-✔ I’m have some Minecraft Plugins ⚙️, they can be found **[here](https://www.spigotmc.org/members/prism3.980738)** <br>
+✔ I've created some Minecraft Plugins ⚙️, they can be found **[here](https://www.spigotmc.org/members/prism3.980738)** <br>
 ✔ I tend to **play** 🎮 more than *study* 📚<br>
 ✔ Portfolio Website **[Prism3.me](https://prism3.me)**<br>
 ✔ Discord Bot Maker **[Tog.gg](https://top.gg/user/3813732896531480576)**<br>
