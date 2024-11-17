@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Prism3&fontSize=75&fontAlign=50&animation=twinkling&desc=Developer%20|%20Creator%20|%20Innovator&descAlign=50&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Prism3&fontSize=75&fontAlign=50&animation=twinkling&desc=Developer%20|%20Creator%20|%20Innovator&descAlign=50&descAlignY=75"/>
 
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Minecraft%20Plugin%20Creator;4%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=800&height=45&color=F75C7E&vCenter=true&pause=1000&size=22" />
@@ -39,6 +39,8 @@ Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░
 
 ### 🌟 **About Me**
 
+</div>
+
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Coding GIF"/>
 
 - 👨‍💻 **Founder** of [Carpour](https://carpour.com), a Moroccan Minecraft Server 🌍.
@@ -47,8 +49,6 @@ Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░
 - 🎮 Gamer at heart, creator by passion!
 - 🌐 Visit my portfolio: [Prism3.me](https://prism3.me).
 - ⚡ **Fun Fact**: Code runs through my veins, and games keep my heart alive.
-
-</div>
 
 ---
 
@@ -112,16 +112,31 @@ DevOps      ██████████████░░░░░░░░�
 ```mermaid
 timeline
     title My Programming Journey
-    2020 : Started learning Java
-         : Created my first Minecraft plugin
-    2021 : Learned Python
-         : Founded Carpour Minecraft Server
-    2022 : Expanded into Web Development
-         : Built custom Discord Bots
-    2023 : Mastered Backend Development
-         : Began contributing to Open Source
+    2016 : Discovered Web Development
+         : Learned HTML, CSS, and JavaScript
+         : Built my first website
+    2017 : Ventured into Linux Systems
+         : Learned basic Bash commands
+         : Explored Linux and Ubuntu environments
+    2018 : Entered Game Development
+         : Learned C and C++
+         : Created my first 2D game
+    2019 : Tackled Data and Simulations
+         : Learned R and MATLAB
+         : Solved mathematical and simulation problems
+    2020 : Dived into Java Programming
+         : Built Minecraft plugins and parkour maps
+    2021 : Embraced Python Development
+         : Created Discord bots
+         : Automated tasks and workflows
+    2022 : Expanded into Networking
+         : Learned Cisco technologies and protocols
+         : Developed advanced networking skills
+    2023 : Leveraged GIS and Backend Mastery
+         : Gained GIS expertise
+         : Contributed to open-source projects
     2024 : Exploring Cloud Computing
-         : Building Scalable Applications
+         : Building scalable and robust applications
 ```
 
 </div>
