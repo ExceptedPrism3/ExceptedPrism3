@@ -1,61 +1,179 @@
+
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone<img src="https://cdn.discordapp.com/attachments/947328978857898016/947330393751818240/Hi.gif" width="30px">, Prism3 Here😃 <img src="https://cdn.discordapp.com/attachments/947328978857898016/947329982345117786/ezgif.com-gif-maker.gif" width="30px">
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Prism3&fontSize=75&fontAlign=50&animation=twinkling&desc=Developer%20|%20Creator%20|%20Innovator&descAlign=50&descAlignY=65"/>
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+<!-- Animated Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Minecraft%20Plugin%20Creator;4%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=800&height=45&color=F75C7E&vCenter=true&pause=1000&size=22" />
 
-<img src="https://cdn.discordapp.com/attachments/947328978857898016/947329971746115624/Prism3-Banner.gif" align="center" style="width: 100%"  alt=""/>
-
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB"></h3>
-
-<img align="right" width=300px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 </div>
-
-<img src="https://cdn.discordapp.com/attachments/947328978857898016/947329452663275560/pepe-hype.gif" width="30px">&nbsp;***About me ....*** <br>
-
-✔ I’m the Founder of a Moroccan Minecraft Server **[Carpour](https://carpour.com)** <img src="https://cdn.discordapp.com/attachments/947328978857898016/947329452092821564/minecraft-dirt.gif" width="25"><br>
-✔ I’m currently learning Java <img src="https://img.icons8.com/dusk/15/000000/java-coffee-cup-logo.png"/> and Python <img src="https://img.icons8.com/stickers/15/000000/python.png"/><br>
-✔ I've created some Minecraft Plugins ⚙️, they can be found **[here](https://www.spigotmc.org/members/prism3.980738)** <br>
-✔ I tend to **play** 🎮 more than *study* 📚<br>
-✔ Portfolio Website **[Prism3.me](https://prism3.me)**<br>
-✔ Discord Bot Maker **[Tog.gg](https://top.gg/user/3813732896531480576)**<br>
-
-<br><br><br>
-
-<div align="center">
-
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"> Github Stats
 
 <p align="center">
-    <img alt="status github, commits, etc..." width="400px" src="https://github-readme-stats.vercel.app/api?username=ExceptedPrism3&count_private=true&show_icons=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
-    <img alt="most used languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExceptedPrism3&count_private=true&theme=tokyonight&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=exceptedprism3&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"></div>
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" alt=""/>Git Profile Trophies<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" alt=""/></p><br>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ExceptedPrism3&theme=juicyfresh&no-bg=true" alt=""/>
-</p>
-<br>
-
-## <img src="https://c.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" width="25"> &nbsp;Connect with Me
-
-<div align="center">
-<a href="https://linkedin.com/in/ayoub-b-818339164/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/ExceptedPrism3" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E?&style=flat&logo=Github&logoColor=white"/></a>
-<a href="mailto:exceptedprism3@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://discord.com/users/403667971089760257" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-DISCORD-informational?style=flat&logo=Discord&logoColor=white"/></a>
-</div>
-
-## <img src="https://cdn.discordapp.com/attachments/947328978857898016/947337364521484378/pepega.gif" width="25"> Profile Views Counter
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/{ExceptedPrism3}/count.svg)
+### 🎯 **Weekly Development Breakdown**
+
+<!--START_SECTION:waka-->
+```text
+Java         16 hrs 40 mins  ███████████░░░░░░░░  45.2%
+Python       12 hrs 20 mins  ██████████░░░░░░░░░  33.5%
+JavaScript   4 hrs 30 mins   ████░░░░░░░░░░░░░░░  12.2%
+SQL          2 hrs 15 mins   ███░░░░░░░░░░░░░░░░   6.1%
+Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░░░   3.0%
+```
+<!--END_SECTION:waka-->
 
 </div>
+
+<div align="center">
+
+### 🌟 **About Me**
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Coding GIF"/>
+
+- 👨‍💻 **Founder** of [Carpour](https://carpour.com), a Moroccan Minecraft Server 🌍.
+- 🌱 Currently mastering **Django**, **Backend Development**, and **Cloud Technologies**.
+- 🎯 **2024 Goals**: Contribute to Open Source and create scalable applications.
+- 🎮 Gamer at heart, creator by passion!
+- 🌐 Visit my portfolio: [Prism3.me](https://prism3.me).
+- ⚡ **Fun Fact**: Code runs through my veins, and games keep my heart alive.
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛠️ **Skills & Technologies Arsenal**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,django,html,css,php,mysql,git,docker,aws,azure&theme=dark" alt="Skill Icons" />
+</div>
+
+</div>
+
+<!-- Animated Progress Bars -->
+<div align="center">
+
+```javascript
+Java        ███████████████████░░░░   85%
+Python      ████████████████░░░░░░░   75%
+JavaScript  ██████████░░░░░░░░░░░░░   50%
+SQL         ███████████████░░░░░░░░   70%
+Docker      ████████████░░░░░░░░░░░   60%
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 **GitHub Stats**
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ExceptedPrism3&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExceptedPrism3&layout=compact&langs_count=7&theme=radical&bg_color=0D1117"/>
+</div>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExceptedPrism3&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 **Achievements & Contributions**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ExceptedPrism3&theme=onestar&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ExceptedPrism3)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 **My Coding Journey**
+
+```mermaid
+timeline
+    title My Programming Journey
+    2020 : Started learning Java
+         : Created my first Minecraft plugin
+    2021 : Learned Python
+         : Founded Carpour Minecraft Server
+    2022 : Expanded into Web Development
+         : Built custom Discord Bots
+    2023 : Mastered Backend Development
+         : Began contributing to Open Source
+    2024 : Exploring Cloud Computing
+         : Building Scalable Applications
+```
+
+</div>
+
+---
+
+### 🏆 Notable Projects
+
+<div align="center">
+
+<a href="https://github.com/ExceptedPrism3/Logger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ExceptedPrism3&repo=Logger&theme=radical&bg_color=0D1117" />
+</a>
+
+<a href="https://github.com/ExceptedPrism3/HitRadio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ExceptedPrism3&repo=HitRadio&theme=radical&bg_color=0D1117" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 **Let's Connect!**
+
+<a href="https://linkedin.com/in/prism3" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:exceptedprism3@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discord.com/users/403667971089760257" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💖 **Support My Work**
+
+<a href="https://www.buymeacoffee.com/YourUsername">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+<a href="https://ko-fi.com/YourUsername">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
