@@ -147,11 +147,11 @@ timeline
 
 <div align="center">
 
-<a href="https://github.com/ExceptedPrism3/Logger">
+<a href="https://github.com/ExceptedPrism3/Logger" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ExceptedPrism3&repo=Logger&theme=radical&bg_color=0D1117" />
 </a>
 
-<a href="https://github.com/ExceptedPrism3/HitRadio">
+<a href="https://github.com/ExceptedPrism3/HitRadio" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ExceptedPrism3&repo=HitRadio&theme=radical&bg_color=0D1117" />
 </a>
 
@@ -163,7 +163,7 @@ timeline
 
 ### 🤝 **Let's Connect!**
 
-<a href="https://linkedin.com/in/prism3" target="_blank">
+<a href="https://linkedin.com/in/prism3" target="_blank" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />  
 </a>
 <a href="mailto:exceptedprism3@gmail.com" target="_blank">
@@ -181,10 +181,10 @@ timeline
 
 ### 💖 **Support My Work**
 
-<a href="https://www.buymeacoffee.com/prism3">
+<a href="https://www.buymeacoffee.com/prism3" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" />
 </a>
-<a href="https://paypal.me/carpour">
+<a href="https://paypal.me/carpour" target="_blank">
 <img src="https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff" />
 </a>
 
