@@ -44,8 +44,8 @@ Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Coding GIF"/>
 
 - 👨‍💻 **Founder** of [Carpour](https://carpour.com), a Moroccan Minecraft Server 🌍.
-- 🌱 Currently mastering **Django**, **Backend Development**, and **Cloud Technologies**.
-- 🎯 **2024 Goals**: Contribute to Open Source and create scalable applications.
+- 🌱 Currently mastering **SpringBoot**, **Backend Development**, and **Cloud Technologies**.
+- 🎯 **2025 Goals**: Contribute to Open Source and create scalable applications.
 - 🎮 Gamer at heart, creator by passion!
 - 🌐 Visit my portfolio: [Prism3.me](https://prism3.me).
 - ⚡ **Fun Fact**: Code runs through my veins, and games keep my heart alive.
@@ -164,13 +164,13 @@ timeline
 ### 🤝 **Let's Connect!**
 
 <a href="https://linkedin.com/in/prism3" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />  
 </a>
 <a href="mailto:exceptedprism3@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
 </a>
 <a href="https://discord.com/users/403667971089760257" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" />
 </a>
 
 </div>
@@ -182,10 +182,10 @@ timeline
 ### 💖 **Support My Work**
 
 <a href="https://www.buymeacoffee.com/prism3">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a Coffee" />
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 <a href="https://paypal.me/carpour">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+<img src="https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff" />
 </a>
 
 </div>
