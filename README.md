@@ -13,7 +13,7 @@
   <a href="https://github.com/ExceptedPrism3">
     <img src="https://img.shields.io/github/followers/ExceptedPrism3?style=for-the-badge&logo=github&color=181717&labelColor=7928CA&label=Followers" alt="GitHub Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ExceptedPrism3&style=for-the-badge&color=FF0080&label=Profile+Views&base=1000" alt="Profile Views" />
+  <img src="https://tinyurl.com/2cmet52f" alt="Profile Views" />
 </p>
 
 <!-- Snake Animation -->
