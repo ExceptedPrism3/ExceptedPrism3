@@ -1,0 +1,20 @@
+name: Profile View Booster
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Run every 30 minutes
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  boost:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Boost View Count
+        run: |
+          # Request the image 5 times with different timestamp parameters to simulate views
+          # GitHub Actions IPs rotate, so this often bypasses basic rate limits
+          for i in {1..5}
+          do
+             curl -s -H "User-Agent: Mozilla/5.0" "https://komarev.com/ghpvc/?username=ExceptedPrism3&style=for-the-badge&color=FF0080&label=Profile+Views&t=$(date +%s%N)" > /dev/null
+             sleep 2
+          done
