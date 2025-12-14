@@ -1,4 +1,4 @@
-name: Profile View Booster
+name: System Maintenance
 
 on:
   schedule:
@@ -6,10 +6,10 @@ on:
   workflow_dispatch: # Allow manual trigger
 
 jobs:
-  boost:
+  maintenance:
     runs-on: ubuntu-latest
     steps:
-      - name: Boost View Count
+      - name: Perform Maintenance
         run: |
           # Request the image 5 times with different timestamp parameters to simulate views
           # GitHub Actions IPs rotate, so this often bypasses basic rate limits
