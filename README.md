@@ -117,21 +117,11 @@ Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░
 
 <div align="center">
 
-## ⏳ Journey Timeline
+## 💬 Quote of the Day
 
-```mermaid
-timeline
-    title My Programming Evolution
-    2016 : HTML, CSS, JS : First Website
-    2017 : Linux, Bash : System Admin
-    2018 : C, C++ : Game Dev
-    2019 : R, MATLAB : Data Science
-    2020 : Java : Minecraft Plugins
-    2021 : Python : Automation & Bots
-    2022 : Networking : Cisco & Protocols
-    2023 : GIS, Backend : Open Source
-    2024 : Cloud, DevOps : Scalable Apps
-```
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
+</a>
 
 </div>
 
@@ -155,10 +145,10 @@ timeline
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:exceptedprism3@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
 </a>
 <a href="https://discord.com/users/403667971089760257" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" />
 </a>
 
 <br>
