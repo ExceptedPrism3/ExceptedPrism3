@@ -86,7 +86,7 @@ Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░
       <img src="https://github-readme-stats.vercel.app/api?username=ExceptedPrism3&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.demolab.com/?user=ExceptedPrism3&theme=radical&bg_color=0D1117&hide_border=true&stroke=7928CA" alt="Streak Stats" />
+      <img src="https://streak-stats.demolab.com?user=ExceptedPrism3&theme=radical&bg_color=0D1117&hide_border=true&stroke=7928CA" alt="Streak Stats" />
     </td>
   </tr>
 </table>
