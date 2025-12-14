@@ -153,6 +153,8 @@ Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░
 
 <br>
 
+---
+
 ### 💖 Support My Work
 
 <a href="https://www.buymeacoffee.com/prism3" target="_blank">
@@ -162,7 +164,7 @@ Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=100&section=footer" width="100%"/>
 
