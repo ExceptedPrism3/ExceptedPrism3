@@ -13,7 +13,9 @@
   <a href="https://github.com/ExceptedPrism3">
     <img src="https://img.shields.io/github/followers/ExceptedPrism3?style=for-the-badge&logo=github&color=181717&labelColor=7928CA&label=Followers" alt="GitHub Followers" />
   </a>
-  <img src="https://tinyurl.com/2cmet52f" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FExceptedPrism3&count_bg=%23FF0080&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views" />
+  
+  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 </p>
 
 <!-- Snake Animation -->
